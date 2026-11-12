@@ -1,0 +1,7 @@
+now i will make the biggest chage of all 
+
+the main goal for making this was to make reading things fun
+
+when a file is uploades do not display it imediately just process it and let it be and then when the enter key is pressed the text should be printed character by character as if it was being written in real time 
+
+also make it so that the speed of the appearing text can be changes as per the users needs do not remove any feature from now as i still have to make more decisions regarding how the app should be working
